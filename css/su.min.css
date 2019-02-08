@@ -1,0 +1,114 @@
+.uk-button {
+  border-radius: 3px;
+}
+
+.uk-border-left {
+  /*border-left: 1px solid rgba(255, 255, 255, 0.2);*/
+}
+
+.uk-border-left>p {
+  margin-top: 0;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.uk-grid>*> :last-child {
+  /*margin-bottom: 20px;*/
+}
+
+.uk-heading-bullet {
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.uk-heading-divider {
+  padding-bottom: 20px;
+}
+
+.uk-border-left .uk-first-column {}
+.uk-extra-padding-top {
+  padding-top: 50px;
+}
+a:hover {
+  text-decoration: none;
+}
+
+.corner-top-right-bevel {
+  border-color: transparent transparent black transparent;
+  border-width: 0 50px 50px 0;
+}
+
+.uk-action-scope > div > div {
+  background-color: rgba(255,255,255,0.03);
+  color: #ffffff;
+
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+
+.uk-action-scope > div > div:hover {
+  background-color: rgba(255,255,255,0.06);
+}
+
+.uk-projects > div > div {
+  background-color: rgba(0,0,0,0.03);
+  color: #000000;
+
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+}
+
+.uk-projects > div > div:hover {
+  background-color: rgba(0,0,0,0.06);
+  -webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.1);
+  box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.1);
+
+}
+/*
+img {
+  transition: filter .5s ease-in-out;
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(100%); /* FF 35+ */
+}
+
+img:hover {
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+}
+*/
+div > a > h4 {
+  margin-top: 20px;
+}
+
+.uk-project-title {
+  /*font-family: 'Great Vibes', cursive;*/
+  font-family: 'Qwigley', cursive;
+}
+
+.uk-font-size-2-5 {
+  font-size: 2.5rem;
+}
+
+.uk-font-size-3 {
+   font-size: 3rem;
+}
+
+.uk-text-lead {
+  font-size: 2.5rem;
+  transform: rotate(-180deg);
+}
+
+.uk-background-logo {
+  width: 500px;
+  position:relative;
+  bottom: 50vh;
+  opacity: 0.25;
+  transform: rotate(-90deg);
+  right: -20px
+}
