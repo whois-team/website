@@ -26,7 +26,7 @@ Website files
 
 <a href="https://getuikit.com/"><img height=40px src="https://github.com/whois-team/website/blob/master/builtwith/uikit.png"></a>
 
-<a href="https://fontawesome.com/"><img height=40px src="https://github.com/whois-team/website/blob/master/builtwith/fontawesome.png"></a>
+<a href="https://fontawesome.com/"><img height=40px src="https://github.com/whois-team/website/blob/master/builtwith/fa.png"></a>
 
 
 ## License
