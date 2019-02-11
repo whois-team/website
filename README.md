@@ -2,7 +2,6 @@
 
 <p align="center"><a href="https://getuikit.com/"><img src="https://img.shields.io/badge/UI%20Kit-3.0.0%20rc24-blue.svg"></a>  <a href="https://fontawesome.com/"><img src="https://img.shields.io/badge/FontAwesome-5.5.0-blue.svg"></a>  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/whois-team/website.svg?style=flat"></a></p>
 
-
 ## Overview
 
 Website files
@@ -21,13 +20,11 @@ Website files
 
 `favicon.png` - Website favicon
 
-
 ## Built with
 
 <a href="https://getuikit.com/"><img height=40px src="https://github.com/whois-team/website/blob/master/builtwith/uikit.png"></a>
 
 <a href="https://fontawesome.com/"><img height=100px src="https://github.com/whois-team/website/blob/master/builtwith/fa.png"></a>
-
 
 ## License
 
